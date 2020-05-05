@@ -115,7 +115,7 @@ Same as previous.
 
 
 ## How to run
-Step 1: Install intellij idea app from https://www.jetbrains.com/idea/download/#section=windows 
-Step 2: Download Javafx from https://gluonhq.com/products/javafx/ and extract the zip file to a desired location.
-Step 3: Open the project with intellij idea and Run the HostelProjact.java.
-Step 4: Point the project module to JacaFX lib.
+## Step 1: Install intellij idea app from https://www.jetbrains.com/idea/download/#section=windows 
+## Step 2: Download Javafx from https://gluonhq.com/products/javafx/ and extract the zip file to a desired location.
+## Step 3: Open the project with intellij idea and Run the HostelProjact.java.
+## Step 4: Point the project module to JacaFX lib.
